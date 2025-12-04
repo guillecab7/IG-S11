@@ -3,7 +3,7 @@ La idea que se me ocurrió, fue desarrollar un juego que consiste en varias fich
 El objetivo del juego es tirar todas las fichas fuera del suelo con un solo bolazo que impacte en todas ellas. 
 Si queda alguna ficha en el tablero sea de la forma que sea no se consigue victoria. 
 
-En el video grabado podemos observar varios lanzamientos consecutivos hasta llegar al lanzamiento ganador que está al final del video. El video fue entregado en el campus virtual junto con el enlace de este github.
+En el siguiente [video de prueba](https://youtu.be/-esUHufccsE) grabado podemos observar varios lanzamientos consecutivos hasta llegar al lanzamiento ganador que está al final del video.
 
 Antes de nada comentar que todo el código de la práctica fue implementado en el CodeSandbox -> [IG-ENTREGA-S11](https://codesandbox.io/p/devbox/ig2526-s10-forked-tq66nv?workspaceId=ws_R33WtefLGa8Mx8YH5rgWSi)
 
